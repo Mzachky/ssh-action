@@ -1,4 +1,6 @@
-# 🚀 SSH for GitHub Action shadow token(./README.zh-tw.md)
+# 🚀 SSH for GitHub Actions
+
+[繁體中文](./README.zh-tw.md)
 
 [GitHub Action](https://github.com/features/actions) for executing remote ssh commands.
 
@@ -8,7 +10,7 @@
 
 **Important**: Only support **Linux** [docker](https://www.docker.com/) container.
 
-This thing is built using [Golang](https://go.dev) and [drone-ssh](https://github.com/mzachky/drone-ssh). 🚀
+This thing is built using [Golang](https://go.dev) and [drone-ssh](https://github.com/appleboy/drone-ssh). 🚀
 
 ## Input variables
 
